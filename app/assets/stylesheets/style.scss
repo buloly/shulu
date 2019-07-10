@@ -121,7 +121,7 @@ h1,h2,h3,h4,h5,h6 {
 header.header {
   @include basePadding;
   border-bottom: 10px solid $gray;
-  background-color:rgb(236, 233, 49);
+  background-color:rgba(15, 196, 60, 0.89);
   position: fixed;
   top: 0;
   left: 0;
